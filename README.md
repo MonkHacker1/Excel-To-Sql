@@ -3,7 +3,7 @@
 This Python script is a simple and effective tool that allows you to convert Excel files into a SQL database. Perfect for those looking for a quick and easy solution to migrate data from spreadsheets to a SQL database.
 ## **🚀 Getting started**
 
-First, clone this repository on your local machine using **`https://github.com/JCastro-bit/EXCEL-TO-SQL.git`**.
+First, clone this repository on your local machine using **`https://github.com/MonkHacker1/Excel-To-Sql.git`**.
 
  Make sure you have Python , pymysql, openpyxl, sqlalchemy and Pandas installed in your environment.
 
@@ -12,7 +12,7 @@ First, clone this repository on your local machine using **`https://github.com/J
 1. Clone the repository
     
     ````python
-    git clone https://github.com/JCastro-bit/EXCEL-TO-SQL.git
+    git clone https://github.com/MonkHacker1/Excel-To-Sql.git
     ```
     
 2. Change to the project directory
